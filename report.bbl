@@ -1,0 +1,369 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{leichtman_research_group_2019}{article}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Leichtman Research Group}
+      \field{month}{5}
+      \field{title}{31 Percent of Adults Watch Video via a Connected TV Device Daily}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.leichtmanresearch.com/2019/05/#:~:text=Connected%20and%204K%20TVs%202019%20is%20based%20on%20a%20survey,households%20with%20a%20TV%20set.
+      \endverb
+      \verb{url}
+      \verb https://www.leichtmanresearch.com/2019/05/#:~:text=Connected%20and%204K%20TVs%202019%20is%20based%20on%20a%20survey,households%20with%20a%20TV%20set.
+      \endverb
+    \endentry
+    \entry{alam_khusro_khan_2020}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=e19ce81a857c4ca54850b1bcbe33fdbc}{%
+           family={Alam},
+           familyi={A\bibinitperiod},
+           given={Iftikhar},
+           giveni={I\bibinitperiod}}}%
+        {{hash=164b41ea33ee2024f93a61bde2976113}{%
+           family={Khusro},
+           familyi={K\bibinitperiod},
+           given={Shah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=612539ec8d827f6c49496e232d929457}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Mumtaz},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEExplore}%
+      }
+      \strng{namehash}{90e04d85eb618eea4b6a5679f2e637af}
+      \strng{fullhash}{90e04d85eb618eea4b6a5679f2e637af}
+      \strng{bibnamehash}{90e04d85eb618eea4b6a5679f2e637af}
+      \strng{authorbibnamehash}{90e04d85eb618eea4b6a5679f2e637af}
+      \strng{authornamehash}{90e04d85eb618eea4b6a5679f2e637af}
+      \strng{authorfullhash}{90e04d85eb618eea4b6a5679f2e637af}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Shibboleth Authentication Request}
+      \field{month}{2}
+      \field{title}{Usability Barriers in Smart TV User Interfaces: A Review and Recommendations}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://ieeexplore-ieee-org.flpoly-proxy.flvc.org/document/8991644
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore-ieee-org.flpoly-proxy.flvc.org/document/8991644
+      \endverb
+    \endentry
+    \entry{beergod}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=606a18a2bbdbbf8abea8901569c8c025}{%
+           family={BeerGod},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{606a18a2bbdbbf8abea8901569c8c025}
+      \strng{fullhash}{606a18a2bbdbbf8abea8901569c8c025}
+      \strng{bibnamehash}{606a18a2bbdbbf8abea8901569c8c025}
+      \strng{authorbibnamehash}{606a18a2bbdbbf8abea8901569c8c025}
+      \strng{authornamehash}{606a18a2bbdbbf8abea8901569c8c025}
+      \strng{authorfullhash}{606a18a2bbdbbf8abea8901569c8c025}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Amazon}
+      \field{title}{Come on Apple}
+      \verb{urlraw}
+      \verb https://www.amazon.com/gp/customer-reviews/R394F9LY15K0CP/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&amp;ASIN=B075NFX24M
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/gp/customer-reviews/R394F9LY15K0CP/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&amp;ASIN=B075NFX24M
+      \endverb
+    \endentry
+    \entry{christy}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ce73b963759513a0804163a5f3dd41ad}{%
+           family={Christy},
+           familyi={C\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce73b963759513a0804163a5f3dd41ad}
+      \strng{fullhash}{ce73b963759513a0804163a5f3dd41ad}
+      \strng{bibnamehash}{ce73b963759513a0804163a5f3dd41ad}
+      \strng{authorbibnamehash}{ce73b963759513a0804163a5f3dd41ad}
+      \strng{authornamehash}{ce73b963759513a0804163a5f3dd41ad}
+      \strng{authorfullhash}{ce73b963759513a0804163a5f3dd41ad}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Amazon}
+      \field{title}{Review from someone who isn't a techie!}
+      \verb{urlraw}
+      \verb https://www.amazon.com/gp/customer-reviews/R1I4BN97HAE68T/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&amp;ASIN=B083XN4K5D
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/gp/customer-reviews/R1I4BN97HAE68T/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&amp;ASIN=B083XN4K5D
+      \endverb
+    \endentry
+    \entry{damir_2014}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9e623bf9100da3416c347b7df6b5d97a}{%
+           family={Damir},
+           familyi={D\bibinitperiod},
+           given={Liron},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e623bf9100da3416c347b7df6b5d97a}
+      \strng{fullhash}{9e623bf9100da3416c347b7df6b5d97a}
+      \strng{bibnamehash}{9e623bf9100da3416c347b7df6b5d97a}
+      \strng{authorbibnamehash}{9e623bf9100da3416c347b7df6b5d97a}
+      \strng{authornamehash}{9e623bf9100da3416c347b7df6b5d97a}
+      \strng{authorfullhash}{9e623bf9100da3416c347b7df6b5d97a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Digital File, JPG}
+      \field{title}{lg\_bea\_bird\_dialogue}
+      \field{year}{2014}
+      \field{dateera}{ce}
+    \endentry
+    \entry{designing_for_apple_tv}{book}{}
+      \list{publisher}{1}{%
+        {Apple Inc.}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Designing for Apple TV}
+      \field{title}{Designing for Apple TV - Apple TV Tech Talks - Videos}
+      \verb{urlraw}
+      \verb https://developer.apple.com/videos/play/techtalks-apple-tv/2/
+      \endverb
+      \verb{url}
+      \verb https://developer.apple.com/videos/play/techtalks-apple-tv/2/
+      \endverb
+    \endentry
+    \entry{7774793}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=3d4a819b89986b252b088ac172dbc860}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Jiuqiang},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d4a819b89986b252b088ac172dbc860}
+      \strng{fullhash}{3d4a819b89986b252b088ac172dbc860}
+      \strng{bibnamehash}{3d4a819b89986b252b088ac172dbc860}
+      \strng{authorbibnamehash}{3d4a819b89986b252b088ac172dbc860}
+      \strng{authornamehash}{3d4a819b89986b252b088ac172dbc860}
+      \strng{authorfullhash}{3d4a819b89986b252b088ac172dbc860}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2016 Sixth International Conference on Instrumentation Measurement, Computer, Communication and Control (IMCCC)}
+      \field{title}{Smart TV Interface Design and Evaluation Based on Goal-Oriented}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{327\bibrangedash 330}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/IMCCC.2016.43
+      \endverb
+    \endentry
+    \entry{nitromethane}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=911382f37519a8b97dcce456ac6ee15b}{%
+           family={NitroMethane},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{911382f37519a8b97dcce456ac6ee15b}
+      \strng{fullhash}{911382f37519a8b97dcce456ac6ee15b}
+      \strng{bibnamehash}{911382f37519a8b97dcce456ac6ee15b}
+      \strng{authorbibnamehash}{911382f37519a8b97dcce456ac6ee15b}
+      \strng{authornamehash}{911382f37519a8b97dcce456ac6ee15b}
+      \strng{authorfullhash}{911382f37519a8b97dcce456ac6ee15b}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Amazon}
+      \field{title}{Great picture and AMAZING TV, extremely buggy/frustrating software}
+      \verb{urlraw}
+      \verb https://www.amazon.com/gp/customer-reviews/RSS1TLSWQGFA2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&amp;ASIN=B0829RYP8V
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/gp/customer-reviews/RSS1TLSWQGFA2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&amp;ASIN=B0829RYP8V
+      \endverb
+    \endentry
+    \entry{apple_support}{misc}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Apple Support}
+      \field{title}{Other things you can ask Siri on Apple TV}
+      \verb{urlraw}
+      \verb https://support.apple.com/guide/tv/other-things-to-ask-siri-atvbb96a3e3f/tvos
+      \endverb
+      \verb{url}
+      \verb https://support.apple.com/guide/tv/other-things-to-ask-siri-atvbb96a3e3f/tvos
+      \endverb
+    \endentry
+    \entry{reader}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=fa5f6e72a17520c03c1ef2446f9cb21e}{%
+           family={Reader},
+           familyi={R\bibinitperiod},
+           given={Reclusive},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{fa5f6e72a17520c03c1ef2446f9cb21e}
+      \strng{fullhash}{fa5f6e72a17520c03c1ef2446f9cb21e}
+      \strng{bibnamehash}{fa5f6e72a17520c03c1ef2446f9cb21e}
+      \strng{authorbibnamehash}{fa5f6e72a17520c03c1ef2446f9cb21e}
+      \strng{authornamehash}{fa5f6e72a17520c03c1ef2446f9cb21e}
+      \strng{authorfullhash}{fa5f6e72a17520c03c1ef2446f9cb21e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Amazon}
+      \field{title}{Super fun for the whole family - even those who have trouble with technology}
+      \verb{urlraw}
+      \verb https://www.amazon.com/gp/customer-reviews/R2WZMB3KW6ITDZ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&amp;ASIN=B075NFX24M
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/gp/customer-reviews/R2WZMB3KW6ITDZ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&amp;ASIN=B075NFX24M
+      \endverb
+    \endentry
+    \entry{smith_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ac54fffa31d5243b467a61fc732dd6aa}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac54fffa31d5243b467a61fc732dd6aa}
+      \strng{fullhash}{ac54fffa31d5243b467a61fc732dd6aa}
+      \strng{bibnamehash}{ac54fffa31d5243b467a61fc732dd6aa}
+      \strng{authorbibnamehash}{ac54fffa31d5243b467a61fc732dd6aa}
+      \strng{authornamehash}{ac54fffa31d5243b467a61fc732dd6aa}
+      \strng{authorfullhash}{ac54fffa31d5243b467a61fc732dd6aa}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trusted Reviews}
+      \field{month}{9}
+      \field{title}{Samsung's invasive plans to target Smart TV owners with ads revealed}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.trustedreviews.com/news/samsungs-invasive-plans-to-target-smart-tv-owners-with-ads-revealed-3939709
+      \endverb
+      \verb{url}
+      \verb https://www.trustedreviews.com/news/samsungs-invasive-plans-to-target-smart-tv-owners-with-ads-revealed-3939709
+      \endverb
+    \endentry
+    \entry{strategy_analytics_2020}{article}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Strategy Analytics}
+      \field{month}{9}
+      \field{title}{Strategy Analytics: Samsung Leads As Global TV Streaming Device Population Reaches 1.1 Billion}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://news.strategyanalytics.com/press-releases/press-release-details/2020/Strategy-Analytics-Samsung-Leads-As-Global-TV-Streaming-Device-Population-Reaches-1.1-Billion/default.aspx
+      \endverb
+      \verb{url}
+      \verb https://news.strategyanalytics.com/press-releases/press-release-details/2020/Strategy-Analytics-Samsung-Leads-As-Global-TV-Streaming-Device-Population-Reaches-1.1-Billion/default.aspx
+      \endverb
+    \endentry
+    \entry{westover_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7e87dacf9e1ebb8783461bb1a5834ead}{%
+           family={Westover},
+           familyi={W\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e87dacf9e1ebb8783461bb1a5834ead}
+      \strng{fullhash}{7e87dacf9e1ebb8783461bb1a5834ead}
+      \strng{bibnamehash}{7e87dacf9e1ebb8783461bb1a5834ead}
+      \strng{authorbibnamehash}{7e87dacf9e1ebb8783461bb1a5834ead}
+      \strng{authornamehash}{7e87dacf9e1ebb8783461bb1a5834ead}
+      \strng{authorfullhash}{7e87dacf9e1ebb8783461bb1a5834ead}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{title}{Who makes the smartest smart tv? Here are the results}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tomsguide.com/us/smartest-smart-tv,review-5986.html
+      \endverb
+      \verb{url}
+      \verb https://www.tomsguide.com/us/smartest-smart-tv,review-5986.html
+      \endverb
+    \endentry
+    \entry{enwiki:1012760174}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 24-April-2021]}
+      \field{title}{WebOS --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=WebOS&oldid=1012760174
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=WebOS&oldid=1012760174
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

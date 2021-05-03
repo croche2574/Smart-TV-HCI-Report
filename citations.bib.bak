@@ -1,0 +1,165 @@
+% Encoding: UTF-8
+
+@Article{leichtman_research_group_2019,
+  title        = {31 Percent of Adults Watch Video via a Connected TV Device Daily},
+  date         = {2019-05},
+  journaltitle = {Leichtman Research Group},
+  url          = {https://www.leichtmanresearch.com/2019/05/#:~:text=Connected%20and%204K%20TVs%202019%20is%20based%20on%20a%20survey,households%20with%20a%20TV%20set.},
+}
+
+@Article{strategy_analytics_2020,
+  title        = {Strategy Analytics: Samsung Leads As Global TV Streaming Device Population Reaches 1.1 Billion},
+  date         = {2020-09},
+  journaltitle = {Strategy Analytics},
+  url          = {https://news.strategyanalytics.com/press-releases/press-release-details/2020/Strategy-Analytics-Samsung-Leads-As-Global-TV-Streaming-Device-Population-Reaches-1.1-Billion/default.aspx},
+}
+
+@Book{designing_for_apple_tv,
+  publisher    = {Apple Inc.},
+  title        = {Designing for Apple TV - Apple TV Tech Talks - Videos},
+  journaltitle = {Designing for Apple TV},
+  url          = {https://developer.apple.com/videos/play/techtalks-apple-tv/2/},
+}
+
+@Misc{apple_support,
+  title        = {Other things you can ask Siri on Apple TV},
+  journaltitle = {Apple Support},
+  url          = {https://support.apple.com/guide/tv/other-things-to-ask-siri-atvbb96a3e3f/tvos},
+}
+
+@Misc{archer_2020,
+  author       = {Archer, John},
+  title        = {The best smart TV platforms},
+  date         = {2020-10},
+  journaltitle = {The Ambient},
+  url          = {https://www.the-ambient.com/guides/best-smart-tv-tvs-2020-platforms-2171},
+}
+
+@Misc{beergod,
+  author       = {BeerGod},
+  title        = {Come on Apple},
+  journaltitle = {Amazon},
+  url          = {https://www.amazon.com/gp/customer-reviews/R394F9LY15K0CP/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&amp;ASIN=B075NFX24M},
+}
+
+@Misc{christy,
+  author       = {Christy, A},
+  title        = {Review from someone who isn't a techie!},
+  journaltitle = {Amazon},
+  url          = {https://www.amazon.com/gp/customer-reviews/R1I4BN97HAE68T/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&amp;ASIN=B083XN4K5D},
+}
+
+@Misc{gruenwedel_2021,
+  author       = {Gruenwedel, Erik},
+  title        = {Report: Samsung Tizen Smart TVs Top Global Streaming Operating Systems},
+  date         = {2021-03},
+  journaltitle = {Media Play News},
+  url          = {https://www.mediaplaynews.com/report-samsung-tizen-smart-tvs-top-global-streaming-operating-systems/#:~:text=Roku%2C%20which%20co%2Dcreated%20the,WebOS%20with%2052%25%20market%20share.},
+}
+
+@Misc{hodg100_2016,
+  author       = {hodg100},
+  title        = {Samsung 2016 Tizen Smart TV System Review},
+  date         = {2016-07},
+  journaltitle = {AVForums},
+  url          = {https://www.avforums.com/reviews/samsung-tizen-smart-tv-system-2016-review.12722},
+}
+
+@Misc{iachello_hong_2007,
+  author       = {Iachello, Giovanni and Hong, Jason},
+  title        = {End-User Privacy in Human–Computer Interaction},
+  date         = {2007},
+  journaltitle = {CMU},
+  publisher    = {Foundations and TrendsR in Human–Computer Interaction},
+  url          = {https://www.cs.cmu.edu/~jasonh/publications/fnt-end-user-privacy-in-human-computer-interaction-final.pdf},
+}
+
+@Misc{maxwell_2020,
+  author = {Maxwell, Adrienne},
+  title  = {LG WebOS Smart Tv platform reviewed},
+  date   = {2020-10},
+  url    = {https://hometheaterreview.com/lg-webos-smart-tv-platform-reviewed/},
+}
+
+@Misc{nitromethane,
+  author       = {NitroMethane},
+  title        = {Great picture and AMAZING TV, extremely buggy/frustrating software},
+  journaltitle = {Amazon},
+  url          = {https://www.amazon.com/gp/customer-reviews/RSS1TLSWQGFA2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&amp;ASIN=B0829RYP8V},
+}
+
+@Misc{reader,
+  author       = {Reader, Reclusive},
+  title        = {Super fun for the whole family - even those who have trouble with technology},
+  journaltitle = {Amazon},
+  url          = {https://www.amazon.com/gp/customer-reviews/R2WZMB3KW6ITDZ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&amp;ASIN=B075NFX24M},
+}
+
+@Misc{sha_2020,
+  author       = {Sha, Arjun},
+  title        = {Android TV vs Samsung's Tizen OS vs LG's webOS - Compared},
+  date         = {2020-12},
+  journaltitle = {Beebom},
+  url          = {https://beebom.com/android-tv-vs-samsungs-tizen-os-vs-lgs-webos/},
+}
+
+@Misc{webos_tv_developer,
+  journaltitle = {webOS TV Developer},
+  url          = {https://webostv.developer.lge.com/},
+}
+
+@Misc{westover_2019,
+  author = {Westover, Brian},
+  title  = {Who makes the smartest smart tv? Here are the results},
+  date   = {2019-04},
+  url    = {https://www.tomsguide.com/us/smartest-smart-tv,review-5986.html},
+}
+
+@Misc{willcox,
+  author       = {Willcox, James K.},
+  title        = {How to Turn Off Smart TV Snooping Features},
+  journaltitle = {Consumer Reports},
+  url          = {https://www.consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/},
+}
+
+@Misc{alam_khusro_khan_2020,
+  author       = {Alam, Iftikhar and Khusro, Shah and Khan, Mumtaz},
+  title        = {Usability Barriers in Smart TV User Interfaces: A Review and Recommendations},
+  date         = {2020-02},
+  journaltitle = {Shibboleth Authentication Request},
+  publisher    = {IEEExplore},
+  url          = {https://ieeexplore-ieee-org.flpoly-proxy.flvc.org/document/8991644},
+}
+
+@InProceedings{7774793,
+  author    = {Fu, Jiuqiang},
+  booktitle = {2016 Sixth International Conference on Instrumentation Measurement, Computer, Communication and Control (IMCCC)},
+  title     = {Smart TV Interface Design and Evaluation Based on Goal-Oriented},
+  pages     = {327--330},
+  date      = {2016},
+  doi       = {10.1109/IMCCC.2016.43},
+}
+
+@Misc{enwiki:1012760174,
+  author = {Wikipedia contributors},
+  note   = {[Online; accessed 24-April-2021]},
+  title  = {WebOS --- {Wikipedia}{,} The Free Encyclopedia},
+  date   = {2021},
+  url    = {https://en.wikipedia.org/w/index.php?title=WebOS&oldid=1012760174},
+}
+
+@Misc{damir_2014,
+  author    = {Damir, Liron},
+  note      = {Digital File, JPG},
+  title     = {lg\_bea\_bird\_dialogue},
+  date      = {2014},
+}
+
+ @misc{smith_2019, 
+ title={Samsung's invasive plans to target Smart TV owners with ads revealed}, 
+ url={https://www.trustedreviews.com/news/samsungs-invasive-plans-to-target-smart-tv-owners-with-ads-revealed-3939709}, 
+ journal={Trusted Reviews}, 
+ author={Smith, Chris}, 
+ year={2019}, 
+ month={Sep}} 
+@Comment{jabref-meta: databaseType:bibtex;}
